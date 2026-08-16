@@ -27,7 +27,7 @@ export default function Home() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.7, delay: 0.1 }}
           >
-            Weborium — Frontend Design Studio, Est. 2025
+            Weborium — Fullstack Design Studio, Est. 2025
           </motion.p>
 
           <h1 className="hero__headline">
