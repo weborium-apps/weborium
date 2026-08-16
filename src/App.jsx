@@ -18,6 +18,7 @@ import NotFound from './pages/NotFound';
 export default function App() {
   useSmoothScroll();
   const location = useLocation();
+  // weborium - since 2025
 
   return (
     <>
