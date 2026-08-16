@@ -1,0 +1,19 @@
+.pagehero{
+  padding: 168px 0 60px;
+}
+.pagehero__title{
+  font-family: var(--f-display);
+  font-weight: 400;
+  font-size: clamp(38px, 7vw, 84px);
+  line-height: 1.06;
+  margin: 20px 0 30px;
+  letter-spacing: -0.01em;
+}
+.pagehero__title em{ font-style: italic; color: var(--brass-soft); }
+.pagehero__sub{
+  max-width: 560px;
+  font-size: 17px;
+  line-height: 1.7;
+  color: var(--text-mid);
+}
+.work-list{ padding-top: 20px; }
