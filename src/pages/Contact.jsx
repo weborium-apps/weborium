@@ -185,7 +185,7 @@ export default function Contact() {
             <div className="contact__block">
               <p className="contact__label">Currently</p>
               <p className="contact__value contact__status">
-                <span className="contact__dot" /> Accepting new projects
+                <span className="contact__dot" /> Open for projects
               </p>
             </div>
           </Reveal>
