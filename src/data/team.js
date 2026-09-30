@@ -26,6 +26,6 @@ export const team = [
     bio: "Shapes the look and feel of every Weborium project, from first wireframe to the last pixel of polish.",
     focus: ["UX Research", "UI Design", "Design Systems", "Prototyping"],
     // photo: null,
-    photo: 'https://pub-4288b22fbd4c41f8ae1e48c844c96685.r2.dev/weborium/WhatsApp%20Image%202026-08-16%20at%2016.49.05.jpeg',
+    photo: 'https://pub-4288b22fbd4c41f8ae1e48c844c96685.r2.dev/weborium/bhavyaweborium.png',
   },
 ];
