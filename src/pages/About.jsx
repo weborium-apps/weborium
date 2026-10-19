@@ -86,7 +86,7 @@ export default function About() {
       </section>
 
       {/* TEAM */}
-      <section className="section" id="team">
+      {/* <section className="section" id="team">
         <div className="container">
           <Reveal type="up"><p className="eyebrow">The People</p></Reveal>
           <Reveal type="up" delay={0.08}>
@@ -98,7 +98,7 @@ export default function About() {
             ))}
           </div>
         </div>
-      </section>
+      </section> */}
     </>
   );
 }
