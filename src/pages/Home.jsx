@@ -178,11 +178,11 @@ export default function Home() {
             </Reveal>
           </div>
 
-          <div className="team-teaser__grid">
+          {/* <div className="team-teaser__grid">
             {team.map((m, i) => (
               <TeamCard member={m} delay={i * 0.1} key={m.id} />
             ))}
-          </div>
+          </div> */}
         </div>
       </section>
     </>
